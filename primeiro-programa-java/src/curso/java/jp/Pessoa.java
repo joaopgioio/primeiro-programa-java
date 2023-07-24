@@ -7,6 +7,7 @@ public class Pessoa {
 	private String nome;
 	private String sobrenome;
 	private int idade;
+<<<<<<< HEAD
 	private Date dataNascimento;
 	
 	public Date getDataNascimento() {
@@ -15,6 +16,9 @@ public class Pessoa {
 	public void setDataNascimento(Date dataNascimento) {
 		this.dataNascimento = dataNascimento;
 	}
+=======
+	
+>>>>>>> branch 'master' of https://github.com/joaopgioio/primeiro-programa-java.git
 	public String getNome() {
 		return nome;
 	}
